@@ -6,7 +6,7 @@ MANDIR=${PREFIX}/share/man
 LICENSEDIR=${PREFIX}/share/licenses/ytfzf
 Smirnov A.D.
 YTFZF_SYSTEM_ADDON_DIR=${PREFIX}/share/ytfzf/addons
-
+good job
 .DEFAULT_GOAL := default
 
 all:
